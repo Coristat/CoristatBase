@@ -1,13 +1,13 @@
-/* How to use CoristatBase: Step 1: Find CoristatMain.cpp (this file), your code will
+/* How to use CoristatBase: Step 1: Find Main.cpp (this file), your code will
 										be excecuted here
-								Step 2: Dump fresh offsets into CoristatIncludes.h, there
+								Step 2: Dump fresh offsets into Includes.h, there
 										should be some example ones for you already
 								Step 3: Create an object of the CoristatMemory Class
 								Step 4: Look under the int main function for everything
 								        that CoristatBase has. Code away!            */
-#include "CoristatIncludes.h"
+#include "Includes.h"
 
-/* This file, CoristatMain.cpp contains the main function, code will be excecuted here */
+/* This file, Main.cpp contains the main function, code will be excecuted here */
 int main()
 {	
 	

@@ -9,7 +9,7 @@ please give the proper credit to this base*/
 #include <TlHelp32.h>
 #include <vector>
 #include <string>
-#include "CoristatMemory.h"
+#include "Memory.h"
 
 /* Dump fresh offsets under here, these offsets are up-to-date as of 2020/06/25 */
 #define dwLocalPlayer 0xD3ABEC

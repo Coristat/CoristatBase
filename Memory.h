@@ -3,7 +3,7 @@ to view, modify, and publish using this base. When publishing or distributing
 please give the proper credit to this base*/
 
 /* Discord: !Coristat#8862*/
-#include "CoristatIncludes.h"
+#include "Includes.h"
 
 class CoristatMemory
 {
